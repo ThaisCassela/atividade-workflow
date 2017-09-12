@@ -1,0 +1,12 @@
+.card {
+  background-color: red;
+}
+
+.card_title {
+  color: white;
+}
+
+.card_img {
+  border: 1px solid #eee;
+  border-radius: 5px;
+}
